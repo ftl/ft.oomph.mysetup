@@ -59,7 +59,7 @@
       requiredJavaVersion="1.7">
     <setupTask
         xsi:type="setup.p2:P2Task"
-        label="FTL's Eclipse Setup (Mars)">
+        label="ftl's Eclipse Setup (Mars)">
       <requirement
           name="epp.package.committers"
           versionRange="[4.5.0,5.0.0)"/>
