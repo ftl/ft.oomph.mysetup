@@ -6,7 +6,7 @@
     xmlns:setup="http://www.eclipse.org/oomph/setup/1.0"
     xmlns:setup.p2="http://www.eclipse.org/oomph/setup/p2/1.0"
     name="ft.oomph.mysetup.package"
-    label="FTL's Eclipse Setup">
+    label="ftl's Eclipse Setup">
   <annotation
       source="http://www.eclipse.org/oomph/setup/BrandingInfo">
     <detail
@@ -16,10 +16,6 @@
     <detail
         key="imageURI">
       <value>https://de.gravatar.com/userimage/8512749/0248a4a03ca84de3b22576296cff0cea.png</value>
-    </detail>
-    <detail
-        key="folderName">
-      <value>eclipse</value>
     </detail>
   </annotation>
   <setupTask
