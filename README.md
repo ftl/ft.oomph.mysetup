@@ -1,4 +1,4 @@
-# FTL's Eclipse Setup
+# ftl's Eclipse Setup
 
 This is my personal Eclipse setup for developing [Vex](https://www.eclipse.org/vex) and everything else in Java.
 
