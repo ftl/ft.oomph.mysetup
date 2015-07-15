@@ -82,6 +82,8 @@
       <requirement
           name="org.bwgz.eclipse.icon.archive.feature.group"/>
       <requirement
+          name="org.eclipse.wst.xml_ui.feature.feature.group"/>
+      <requirement
           name="org.eclipse.wst.xsl.feature.feature.group"/>
       <requirement
           name="org.eclipse.mylyn.github.feature.feature.group"/>
