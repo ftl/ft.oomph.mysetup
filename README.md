@@ -5,7 +5,7 @@ This is my personal Eclipse setup for developing [Vex](https://www.eclipse.org/v
 ## Installation
 
 1. Get the Eclipse installer
-2. Drag and drop a link to ft.oomph.mysetup.setup into the <User Products> node
+2. Drag and drop a link to [ft.oomph.mysetup.setup](https://raw.githubusercontent.com/ftl/ft.oomph.mysetup/master/ft.oomph.mysetup.setup) into the <User Products> node
 3. Install like a pro
 
 ## License
