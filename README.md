@@ -9,19 +9,21 @@ This is my personal Eclipse setup for developing [Vex](https://www.eclipse.org/v
 3. Install like a pro
 
 ## License
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
 
- Version 3, December 2015 
+ Copyright (C) 2015 Florian Thienel <ftl@thecodingflow.com>
 
- Copyright (C) 2015 Florian Thienel <ftl@thecodingflow.com> 
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
 
- Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed. 
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-
- TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- 0.You just DO WHAT THE FUCK YOU WANT TO.
-
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
 
 [WTFPL](http://www.wtfpl.net)
 
