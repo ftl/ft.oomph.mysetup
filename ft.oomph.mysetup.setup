@@ -135,6 +135,22 @@
       <requirement
           name="org.eclipse.oomph.projectcopy.feature.group"/>
       <requirement
+          name="org.eclipse.oomph.setup.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.git.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.jdt.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.mylyn.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.pde.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.targlets.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.setup.workingsets.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.targlets.feature.group"/>
+      <requirement
           name="org.eclipse.oomph.version.feature.group"/>
       <requirement
           name="org.eclipse.wst.xsl.feature.feature.group"/>
