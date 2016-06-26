@@ -105,31 +105,61 @@
           name="org.eclipse.pde.feature.group"
           versionRange="[3.12.0,3.13.0)"/>
       <requirement
+          name="org.eclipse.wst.xml_ui.feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.ide_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.java_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.pde_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.team_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.gerrit.feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.github.feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.bugzilla_feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.git.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.builds.feature.group"/>
+      <requirement
+          name="org.eclipse.mylyn.hudson.feature.group"/>
+      <requirement
+          name="org.eclipse.egit.feature.group"/>
+      <requirement
+          name="org.eclipse.egit.mylyn.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.projectcopy.feature.group"/>
+      <requirement
+          name="org.eclipse.oomph.version.feature.group"/>
+      <requirement
+          name="org.eclipse.wst.xsl.feature.feature.group"/>
+      <requirement
+          name="org.eclipse.m2e.feature.feature.group"/>
+      <requirement
+          name="org.eclipse.mat.feature.feature.group"/>
+      <requirement
           name="AnyEditTools.feature.group"/>
       <requirement
           name="com.mountainminds.eclemma.feature.feature.group"/>
       <requirement
           name="org.bwgz.eclipse.icon.archive.feature.group"/>
       <requirement
-          name="org.eclipse.wst.xml_ui.feature.feature.group"/>
-      <requirement
-          name="org.eclipse.wst.xsl.feature.feature.group"/>
-      <requirement
-          name="org.eclipse.mylyn.github.feature.feature.group"/>
-      <requirement
           name="edu.umd.cs.findbugs.plugin.eclipse.feature.group"/>
       <requirement
           name="JDepend4Eclipse.feature.group"/>
-      <requirement
-          name="org.eclipse.m2e.feature.feature.group"/>
-      <requirement
-          name="org.eclipse.mat.feature.feature.group"/>
       <requirement
           name="net.sourceforge.plantuml.feature.feature.group"/>
       <repository
           url="http://download.eclipse.org/technology/epp/packages/neon"/>
       <repository
           url="http://download.eclipse.org/releases/neon"/>
+      <repository
+          url="http://download.eclipse.org/mylyn/snapshots/3.19"/>
       <repository
           url="http://andrei.gmxhome.de/eclipse/"/>
       <repository
