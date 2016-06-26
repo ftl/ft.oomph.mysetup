@@ -161,6 +161,8 @@
       <repository
           url="http://download.eclipse.org/mylyn/snapshots/3.19"/>
       <repository
+          url="http://download.eclipse.org/oomph/updates/milestone/latest"/>
+      <repository
           url="http://andrei.gmxhome.de/eclipse/"/>
       <repository
           url="http://update.eclemma.org/"/>
